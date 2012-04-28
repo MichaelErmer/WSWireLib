@@ -79,3 +79,7 @@ The files the code was adapted from are located here, and are not
 compatible with Arduino 1.0: 
 - http://liken.otsoa.net/pub/ntwi/twi.h
 - http://liken.otsoa.net/pub/ntwi/twi.c
+
+### Version History ###
+
+1.0 Released
